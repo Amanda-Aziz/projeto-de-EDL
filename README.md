@@ -1,2 +1,6 @@
-# projeto-de-EDL
-Projeto da cadeira de Estrutura de Dados
+<div align="center">
+  
+  # Projeto: Comparação de Estrutura de Dados
+</div>
+
+pesquisar funções de tabela hash....
